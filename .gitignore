@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Machine Learning Files
+# The model file is large, but is usually pushed so the app can run immediately.
+# If you want to exclude it (to save space), uncomment the line below:
+# models/*.h5
+
+# Streamlit config files
+.streamlit/
